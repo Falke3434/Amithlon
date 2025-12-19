@@ -1,1 +1,0 @@
-#define CONFIG_FBCON_CFB32 1

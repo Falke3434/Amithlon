@@ -1,1 +1,0 @@
-#define CONFIG_SX_MODULE 1

@@ -1,1 +1,0 @@
-#define CONFIG_SCSI_BUSLOGIC 1

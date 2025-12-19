@@ -1,1 +1,0 @@
-#undef  CONFIG_APM_RTC_IS_GMT

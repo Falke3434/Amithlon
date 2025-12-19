@@ -1,1 +1,0 @@
-#define CONFIG_SCSI_AIC7XXX 1

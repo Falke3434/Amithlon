@@ -1,8 +1,0 @@
-dio.o: dio.c \
-   /root/disktwo/temp/stab2.04src/include/linux/kernel.h \
-   /root/disktwo/temp/stab2.04src/include/linux/types.h \
-   /root/disktwo/temp/stab2.04src/include/linux/dio.h \
-   /root/disktwo/temp/stab2.04src/include/linux/slab.h \
-   /root/disktwo/temp/stab2.04src/include/linux/init.h \
-   /root/disktwo/temp/stab2.04src/include/asm/io.h \
-   $(wildcard /root/disktwo/temp/stab2.04src/include/config/dio/constants.h)

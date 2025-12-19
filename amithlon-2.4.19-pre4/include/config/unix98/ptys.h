@@ -1,1 +1,0 @@
-#undef  CONFIG_UNIX98_PTYS

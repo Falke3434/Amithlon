@@ -1,1 +1,0 @@
-#define CONFIG_HAMACHI_MODULE 1

@@ -1,1 +1,0 @@
-#define CONFIG_AEC62XX_TUNING 1

@@ -1,1 +1,0 @@
-#define CONFIG_VIDEO_SELECT 1

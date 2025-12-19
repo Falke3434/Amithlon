@@ -1,1 +1,0 @@
-#define CONFIG_NS83820 1
