@@ -1,1 +1,0 @@
-#define CONFIG_FONT_PEARL_8x8 1

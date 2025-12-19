@@ -1,1 +1,0 @@
-#define CONFIG_TULIP_MMIO 1

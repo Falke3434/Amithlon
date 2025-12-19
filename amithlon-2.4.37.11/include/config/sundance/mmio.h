@@ -1,1 +1,0 @@
-#undef  CONFIG_SUNDANCE_MMIO

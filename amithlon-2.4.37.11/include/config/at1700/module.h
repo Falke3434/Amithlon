@@ -1,1 +1,0 @@
-#define CONFIG_AT1700_MODULE 1

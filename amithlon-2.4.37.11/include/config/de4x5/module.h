@@ -1,1 +1,0 @@
-#define CONFIG_DE4X5_MODULE 1

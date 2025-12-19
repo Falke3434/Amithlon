@@ -1,1 +1,0 @@
-#define CONFIG_EL2_MODULE 1

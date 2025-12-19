@@ -1,1 +1,0 @@
-#define CONFIG_NATSEMI_MODULE 1

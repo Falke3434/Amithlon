@@ -1,1 +1,0 @@
-#define CONFIG_MIDI_EMU10K1 1

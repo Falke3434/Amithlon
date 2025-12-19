@@ -1,1 +1,0 @@
-#define CONFIG_X86_HAS_TSC 1

@@ -1,1 +1,0 @@
-#undef  CONFIG_VIA_RHINE

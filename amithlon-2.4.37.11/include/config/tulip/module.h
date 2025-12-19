@@ -1,1 +1,0 @@
-#define CONFIG_TULIP_MODULE 1

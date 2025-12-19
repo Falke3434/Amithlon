@@ -1,1 +1,0 @@
-#define CONFIG_SMC9194_MODULE 1

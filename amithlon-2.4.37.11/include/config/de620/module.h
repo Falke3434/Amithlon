@@ -1,1 +1,0 @@
-#define CONFIG_DE620_MODULE 1

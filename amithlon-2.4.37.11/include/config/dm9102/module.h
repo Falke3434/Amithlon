@@ -1,1 +1,0 @@
-#define CONFIG_DM9102_MODULE 1

@@ -1,1 +1,0 @@
-#undef  CONFIG_PSS_HAVE_BOOT

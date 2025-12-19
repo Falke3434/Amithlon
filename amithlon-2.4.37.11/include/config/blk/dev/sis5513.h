@@ -1,1 +1,0 @@
-#define CONFIG_BLK_DEV_SIS5513 1

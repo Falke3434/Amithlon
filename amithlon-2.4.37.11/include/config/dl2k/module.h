@@ -1,1 +1,0 @@
-#define CONFIG_DL2K_MODULE 1

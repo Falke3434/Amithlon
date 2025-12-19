@@ -1,1 +1,0 @@
-#define CONFIG_VIA_RHINE_MODULE 1

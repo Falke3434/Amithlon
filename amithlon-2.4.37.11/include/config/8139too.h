@@ -1,1 +1,0 @@
-#define CONFIG_8139TOO 1

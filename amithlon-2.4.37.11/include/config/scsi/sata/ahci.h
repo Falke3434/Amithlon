@@ -1,1 +1,0 @@
-#define CONFIG_SCSI_SATA_AHCI 1

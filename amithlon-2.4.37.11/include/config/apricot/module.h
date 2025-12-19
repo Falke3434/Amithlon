@@ -1,1 +1,0 @@
-#define CONFIG_APRICOT_MODULE 1

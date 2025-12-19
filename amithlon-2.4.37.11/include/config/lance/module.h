@@ -1,1 +1,0 @@
-#define CONFIG_LANCE_MODULE 1

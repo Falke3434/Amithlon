@@ -1,1 +1,0 @@
-#define CONFIG_SERIAL_DETECT_IRQ 1

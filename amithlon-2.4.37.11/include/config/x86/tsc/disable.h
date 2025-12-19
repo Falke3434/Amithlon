@@ -1,1 +1,0 @@
-#undef  CONFIG_X86_TSC_DISABLE

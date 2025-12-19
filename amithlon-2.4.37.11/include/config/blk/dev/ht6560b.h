@@ -1,1 +1,0 @@
-#define CONFIG_BLK_DEV_HT6560B 1

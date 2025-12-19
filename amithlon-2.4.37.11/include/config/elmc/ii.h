@@ -1,1 +1,0 @@
-#undef  CONFIG_ELMC_II

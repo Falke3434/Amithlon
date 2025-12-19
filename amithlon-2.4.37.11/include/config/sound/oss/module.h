@@ -1,1 +1,0 @@
-#define CONFIG_SOUND_OSS_MODULE 1

@@ -1,1 +1,0 @@
-#undef  CONFIG_APM_DISPLAY_BLANK

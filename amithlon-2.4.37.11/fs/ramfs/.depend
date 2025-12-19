@@ -1,8 +1,0 @@
-inode.o: inode.c \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/module.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/fs.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/pagemap.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/init.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/string.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/linux/locks.h \
-   /home/Amithlon/amithlon-2.4.37.11/include/asm/uaccess.h

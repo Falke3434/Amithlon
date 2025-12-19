@@ -1,1 +1,0 @@
-#define CONFIG_FB_ATY_GENERIC_LCD 1

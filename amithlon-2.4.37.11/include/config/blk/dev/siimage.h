@@ -1,1 +1,0 @@
-#define CONFIG_BLK_DEV_SIIMAGE 1

@@ -1,1 +1,0 @@
-#undef  CONFIG_QFMT_V2

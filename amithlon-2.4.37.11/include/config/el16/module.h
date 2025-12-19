@@ -1,1 +1,0 @@
-#define CONFIG_EL16_MODULE 1

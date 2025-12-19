@@ -1,1 +1,0 @@
-#define CONFIG_HP100_MODULE 1

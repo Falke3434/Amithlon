@@ -1,1 +1,0 @@
-#undef  CONFIG_AT1700
